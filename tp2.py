@@ -1,1 +1,2 @@
-hola
+def main():
+    print("hola")
